@@ -1,1 +1,2 @@
 # Tranferencia_datos_Android
+Este proyecto de Android Studio ilustra cómo pasar datos entre pantallas en una aplicación Android mediante Intents. La aplicación muestra una pantalla inicial donde el usuario introduce datos que luego se transfieren y muestran en una segunda pantalla. El proyecto está orientado a desarrolladores que buscan comprender y aplicar el paso de información entre actividades en Android, usando prácticas sencillas y efectivas para la transmisión de datos.
